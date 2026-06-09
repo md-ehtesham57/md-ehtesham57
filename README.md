@@ -1,10 +1,10 @@
 ```
- ███████╗██╗  ██╗████████╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
- ██╔════╝██║  ██║╚══██╔══╝██╔════╝██╔════╝██║  ██║██╔══██╗████╗ ████║
- █████╗  ███████║   ██║   █████╗  ███████╗███████║███████║██╔████╔██║
- ██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╔╝██║
- ███████╗██║  ██║   ██║   ███████╗███████║██║  ██║██║  ██║██║ ╚═╝ ██║
- ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+                   ███████╗██╗  ██╗████████╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
+                   ██╔════╝██║  ██║╚══██╔══╝██╔════╝██╔════╝██║  ██║██╔══██╗████╗ ████║
+                   █████╗  ███████║   ██║   █████╗  ███████╗███████║███████║██╔████╔██║
+                   ██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║██╔══██║██╔══██║██║╚██╔╝██║
+                   ███████╗██║  ██║   ██║   ███████╗███████║██║  ██║██║  ██║██║ ╚═╝ ██║
+                   ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 
                                        Full Stack Web Developer · MERN
 ```
@@ -118,7 +118,7 @@ $ ./connect --all
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=00cc44)](https://www.linkedin.com/in/md-ehtesham-153344259/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=vercel&logoColor=00cc44)](https://md-ehtesham.vercel.app)
 [![Email](https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00cc44)](mailto:mdehtesham313@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0f0a?style=for-the-badge&logo=twitter&logoColor=00cc44)](https://twitter.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-0a0f0a?style=for-the-badge&logo=twitter&logoColor=00cc44)](https://x.com/ehtesham_57)
 
 ![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00cc44&label=profile+views)
 
